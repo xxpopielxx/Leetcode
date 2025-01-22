@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/xxpopielxx/Leetcode/tree/master/0051-n-queens) |
+| [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/xxpopielxx/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
