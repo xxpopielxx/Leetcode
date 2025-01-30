@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/xxpopielxx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/xxpopielxx/Leetcode/tree/master/0058-length-of-last-word) |
 ## Recursion
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/xxpopielxx/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
