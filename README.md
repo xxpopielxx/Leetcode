@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/xxpopielxx/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
