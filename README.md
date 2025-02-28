@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/xxpopielxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/xxpopielxx/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/xxpopielxx/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/xxpopielxx/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/xxpopielxx/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
