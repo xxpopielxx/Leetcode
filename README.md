@@ -133,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/xxpopielxx/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
