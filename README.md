@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/xxpopielxx/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/xxpopielxx/Leetcode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/xxpopielxx/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/xxpopielxx/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xxpopielxx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/xxpopielxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/xxpopielxx/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
