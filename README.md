@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/xxpopielxx/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/xxpopielxx/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/xxpopielxx/Leetcode/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0118-pascals-triangle) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/xxpopielxx/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
