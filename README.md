@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/xxpopielxx/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/xxpopielxx/Leetcode/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xxpopielxx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/xxpopielxx/Leetcode/tree/master/0035-search-insert-position) |
+| [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xxpopielxx/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
