@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/xxpopielxx/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
