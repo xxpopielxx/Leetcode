@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xxpopielxx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xxpopielxx/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/xxpopielxx/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/xxpopielxx/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/xxpopielxx/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/xxpopielxx/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xxpopielxx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/xxpopielxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/xxpopielxx/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/xxpopielxx/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/xxpopielxx/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0053-maximum-subarray) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/xxpopielxx/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -265,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xxpopielxx/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/xxpopielxx/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
