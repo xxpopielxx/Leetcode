@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/xxpopielxx/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/xxpopielxx/Leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
