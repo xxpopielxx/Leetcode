@@ -1,6 +1,6 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
-        def is_possible(max_sum): #sprawdza czy da się podzielć na m arrayów takich że ichu sumy są mniejsze lub równe max_sum
+        def is_possible(max_sum): #sprawdza czy da się podzielć na k arrayów takich że ich sumy są mniejsze lub równe max_sum
             current_sum = 0
             splits = 1 
             for num in nums :
