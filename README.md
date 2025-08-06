@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/xxpopielxx/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/xxpopielxx/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0052-n-queens-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xxpopielxx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/xxpopielxx/Leetcode/tree/master/0035-search-insert-position) |
+| [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0119-pascals-triangle-ii) |
