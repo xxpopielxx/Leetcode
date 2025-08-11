@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/xxpopielxx/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Recursion
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xxpopielxx/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/xxpopielxx/Leetcode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Trie
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/xxpopielxx/Leetcode/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/xxpopielxx/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
