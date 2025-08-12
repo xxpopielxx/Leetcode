@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xxpopielxx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/xxpopielxx/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Math
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Merge Sort
 |  |
 | ------- |
