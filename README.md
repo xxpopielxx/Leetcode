@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xxpopielxx/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Recursion
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/xxpopielxx/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/xxpopielxx/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xxpopielxx/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Monotonic Queue
 |  |
 | ------- |
