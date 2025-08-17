@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/xxpopielxx/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/xxpopielxx/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/xxpopielxx/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/xxpopielxx/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/xxpopielxx/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
