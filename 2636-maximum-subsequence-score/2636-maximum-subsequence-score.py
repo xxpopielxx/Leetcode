@@ -2,19 +2,18 @@ import heapq
 class Solution:
     def maxScore(self, nums1: List[int], nums2: List[int], k: int) -> int:
         n = len(nums1)
-        # Tworzymy pary (nums1[i], nums2[i]) bez użycia zip
+        # Tworzymy pary (nums1[i], nums2[i])
         pairs = []
         for i in range(n):
             pairs.append((nums1[i], nums2[i]))
         
-        # Sortujemy pary według nums2 w kolejności malejącej
+        # Sortujemy pary według nums2 malejąco po to żwby póżniej zawsze mieć min num2
         pairs.sort(key=lambda x: x[1], reverse=True)
         
         min_heap = []
         current_sum = 0
         max_score = 0
         
-        # Iterujemy przez pary używając zwykłej pętli for
         for i in range(n):
             num1, num2 = pairs[i]
             # Dodajemy current num1 do heap i sumy
@@ -26,7 +25,7 @@ class Solution:
                 smallest = heapq.heappop(min_heap)
                 current_sum -= smallest
             
-            # Jeśli mamy dokładnie k elementów, obliczamy score
+            # Jeśli k elementów, obliczamy score
             if len(min_heap) == k:
                 score = current_sum * num2
                 if score > max_score:
