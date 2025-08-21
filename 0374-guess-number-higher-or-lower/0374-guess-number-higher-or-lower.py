@@ -10,7 +10,7 @@ class Solution:
         left = 1
         right = n
 
-        while True:
+        while left <= right:
             mid = (right + left) // 2
             if guess(mid) == -1:
                 right = mid-1
@@ -18,6 +18,7 @@ class Solution:
                 left = mid+1
             else:
                 return mid
-
+                
+        return False
 
         
