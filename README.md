@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Array
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/xxpopielxx/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/xxpopielxx/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Divide and Conquer
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
