@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/xxpopielxx/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
