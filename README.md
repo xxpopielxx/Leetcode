@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/xxpopielxx/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/xxpopielxx/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/xxpopielxx/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
