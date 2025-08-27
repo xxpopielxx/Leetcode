@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/xxpopielxx/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/xxpopielxx/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/xxpopielxx/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/xxpopielxx/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/xxpopielxx/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Memoization
