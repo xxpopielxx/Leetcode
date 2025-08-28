@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/xxpopielxx/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/xxpopielxx/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Trie
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
