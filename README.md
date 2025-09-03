@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/xxpopielxx/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xxpopielxx/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0120-triangle) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/xxpopielxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xxpopielxx/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/xxpopielxx/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xxpopielxx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xxpopielxx/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/xxpopielxx/Leetcode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/xxpopielxx/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/xxpopielxx/Leetcode/tree/master/0118-pascals-triangle) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/xxpopielxx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/xxpopielxx/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/xxpopielxx/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/xxpopielxx/Leetcode/tree/master/0221-maximal-square) |
