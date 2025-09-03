@@ -2,7 +2,7 @@ class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         m,n = len(matrix[0]), len(matrix)
         dp = [[0] * m for _ in range(n)]
-        
+        #dp[i][j] - maksymalne wymiary kwadratu gdzie dp[i][j] to lewy górny róg kwadratu
         #base case
         maxi = 0
         for i in range(m): #wypełniam skrajną kolumne i wiersz od dołu
