@@ -16,16 +16,16 @@ class Solution:
             if (freq1[i] == 0) != (freq2[i] == 0):
                 return False
 
-        # tablice zliczające częstotliwości częstotliwości
-        n = len(word1)
-        count_freq1 = [0] * (n + 1)
-        count_freq2 = [0] * (n + 1)
+        # słowniki liczby wystąpień dla obu słów
+        count1 = {}
+        count2 = {}
 
         for f in freq1:
             if f > 0:
-                count_freq1[f] += 1
+                count1[f] = count1.get(f, 0) + 1
         for f in freq2:
             if f > 0:
-                count_freq2[f] += 1
+                count2[f] = count2.get(f, 0) + 1
 
-        return count_freq1 == count_freq2
+        # porównujemy multizbiory częstotliwości
+        return count1 == count2
