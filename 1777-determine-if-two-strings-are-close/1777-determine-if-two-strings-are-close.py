@@ -7,14 +7,25 @@ class Solution:
         freq2 = [0] * 26
 
         for ch in word1:
-            freq1[ord(ch) - ord("a")] += 1 #odejmuje ascii od a żeby móc mieć od 0 do 25
+            freq1[ord(ch) - ord('a')] += 1
         for ch in word2:
-            freq2[ord(ch) - ord("a")] += 1
-        
+            freq2[ord(ch) - ord('a')] += 1
+
+        # sprawdzanie tych samych liter
         for i in range(26):
-            if freq1[i] == 0 and freq2[i] != 0:
+            if (freq1[i] == 0) != (freq2[i] == 0):
                 return False
-            if freq1[i] != 0 and freq2[i] == 0:
-                return False
-        
-        return sorted(freq1) == sorted(freq2)
+
+        # tablice zliczające częstotliwości częstotliwości
+        n = len(word1)
+        count_freq1 = [0] * (n + 1)
+        count_freq2 = [0] * (n + 1)
+
+        for f in freq1:
+            if f > 0:
+                count_freq1[f] += 1
+        for f in freq2:
+            if f > 0:
+                count_freq2[f] += 1
+
+        return count_freq1 == count_freq2
