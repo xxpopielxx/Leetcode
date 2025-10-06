@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/xxpopielxx/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
+| [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/xxpopielxx/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/xxpopielxx/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
