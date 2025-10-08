@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/xxpopielxx/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/xxpopielxx/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/xxpopielxx/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/xxpopielxx/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/xxpopielxx/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/xxpopielxx/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -690,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
