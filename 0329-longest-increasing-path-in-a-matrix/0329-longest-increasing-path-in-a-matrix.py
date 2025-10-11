@@ -5,7 +5,8 @@ class Solution:
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
         def dfs(i, j):
-            if dp[i][j] != 0: #jeśli już zmodyfikowałem to zwracam
+            if dp[i][j] != 0: #jeśli już zmodyfikowałem to zwracam, przez to złożoność to m*n a nie m*n*dfs bo dzięki memoizacji
+            # każdą komórkę przetwarzam raz
                 return dp[i][j]
 
             max_length = 1 #zaczynam od 1 czyli jak tylko matrix[i][j]
