@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/xxpopielxx/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xxpopielxx/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0875-longest-mountain-in-array](https://github.com/xxpopielxx/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/xxpopielxx/Leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/xxpopielxx/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/xxpopielxx/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xxpopielxx/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/xxpopielxx/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/xxpopielxx/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xxpopielxx/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xxpopielxx/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/xxpopielxx/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/xxpopielxx/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -682,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/xxpopielxx/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/xxpopielxx/Leetcode/tree/master/0770-couples-holding-hands) |
+| [0794-swim-in-rising-water](https://github.com/xxpopielxx/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/xxpopielxx/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/xxpopielxx/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
