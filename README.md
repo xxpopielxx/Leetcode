@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/xxpopielxx/Leetcode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/xxpopielxx/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/xxpopielxx/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/xxpopielxx/Leetcode/tree/master/0649-dota2-senate) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/xxpopielxx/Leetcode/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/xxpopielxx/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/xxpopielxx/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xxpopielxx/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xxpopielxx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/xxpopielxx/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0321-create-maximum-number](https://github.com/xxpopielxx/Leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/xxpopielxx/Leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/xxpopielxx/Leetcode/tree/master/0735-asteroid-collision) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/xxpopielxx/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/xxpopielxx/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/xxpopielxx/Leetcode/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/xxpopielxx/Leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/xxpopielxx/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/xxpopielxx/Leetcode/tree/master/0883-car-fleet) |
