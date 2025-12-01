@@ -812,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/xxpopielxx/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/xxpopielxx/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
