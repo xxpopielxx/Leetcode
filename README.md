@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/xxpopielxx/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/xxpopielxx/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/xxpopielxx/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/xxpopielxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/xxpopielxx/Leetcode/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/xxpopielxx/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xxpopielxx/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/xxpopielxx/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
