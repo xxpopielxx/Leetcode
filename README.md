@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/xxpopielxx/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/xxpopielxx/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/xxpopielxx/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xxpopielxx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/xxpopielxx/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
 ## Divide and Conquer
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/xxpopielxx/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xxpopielxx/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/xxpopielxx/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/xxpopielxx/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xxpopielxx/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1659-get-the-maximum-score](https://github.com/xxpopielxx/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/xxpopielxx/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xxpopielxx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/xxpopielxx/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/xxpopielxx/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/xxpopielxx/Leetcode/tree/master/1127-last-stone-weight) |
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
