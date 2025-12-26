@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/xxpopielxx/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/xxpopielxx/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2470-removing-stars-from-a-string](https://github.com/xxpopielxx/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/xxpopielxx/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/xxpopielxx/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/xxpopielxx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/xxpopielxx/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/xxpopielxx/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/xxpopielxx/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Simulation
 |  |
