@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/xxpopielxx/Leetcode/tree/master/2690-house-robber-iv) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/xxpopielxx/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/xxpopielxx/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xxpopielxx/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/xxpopielxx/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/xxpopielxx/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xxpopielxx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/xxpopielxx/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/xxpopielxx/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xxpopielxx/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/xxpopielxx/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Quickselect
 |  |
 | ------- |
