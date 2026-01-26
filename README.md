@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/xxpopielxx/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/xxpopielxx/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/xxpopielxx/Leetcode/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/xxpopielxx/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/xxpopielxx/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/xxpopielxx/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/xxpopielxx/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/xxpopielxx/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xxpopielxx/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/xxpopielxx/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1499-maximum-performance-of-a-team](https://github.com/xxpopielxx/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1777-determine-if-two-strings-are-close](https://github.com/xxpopielxx/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/xxpopielxx/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
