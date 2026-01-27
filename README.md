@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/xxpopielxx/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xxpopielxx/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/xxpopielxx/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/xxpopielxx/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
 | ------- |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/xxpopielxx/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/xxpopielxx/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/xxpopielxx/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -861,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/xxpopielxx/Leetcode/tree/master/0175-combine-two-tables) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/xxpopielxx/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
