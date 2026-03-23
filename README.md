@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/xxpopielxx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/xxpopielxx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/xxpopielxx/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/xxpopielxx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/xxpopielxx/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/xxpopielxx/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/xxpopielxx/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/xxpopielxx/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/xxpopielxx/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/xxpopielxx/Leetcode/tree/master/0164-maximum-gap) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/xxpopielxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/xxpopielxx/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/xxpopielxx/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/xxpopielxx/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/xxpopielxx/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/xxpopielxx/Leetcode/tree/master/0402-remove-k-digits) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/xxpopielxx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/xxpopielxx/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Tree
 |  |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xxpopielxx/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xxpopielxx/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/xxpopielxx/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/xxpopielxx/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/xxpopielxx/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/xxpopielxx/Leetcode/tree/master/0198-house-robber) |
@@ -663,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/xxpopielxx/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/xxpopielxx/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xxpopielxx/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/xxpopielxx/Leetcode/tree/master/1236-n-th-tribonacci-number) |
